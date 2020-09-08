@@ -1,5 +1,6 @@
 # Hey 👋
 
+![Giphy](https://i.imgur.com/VPysNLT.gif)
 
 Me chamo Milena Akamine  👩🇧🇷
 
