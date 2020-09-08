@@ -7,9 +7,11 @@ Estou conhecendo o mundo da programação a fundo 💻
 
 Atualmente me encontro no curso Desenvolvimento de Sistemas  🚩
 
+From SP 📍
+
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
-- 📍 From SP 
+
 
 Reach me out 👇🏼
 
