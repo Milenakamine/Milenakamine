@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**Milenakamine/Milenakamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me chamo Milena Akamine  👩🇧🇷
+Estou conhecendo o mundo da programação a fundo 💻
+Atualmente me encontro no curso Desenvolvimento de Sistemas  🚩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
+
+- 📍 From SP 
+
+Reach me out 👇🏼
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//milena-akamine-7a12041b2/)](https://www.linkedin.com/in//milena-akamine-7a12041b2/)
