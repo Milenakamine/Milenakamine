@@ -20,10 +20,11 @@ Reach me out 👇🏼
 
 
 See ya! :octocat:
+<a href="https://github.com/Milenakamine/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milenakamine" />
+</a>
 
 <a href="https://github.com/Milenakamine/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Milenakamine&show_icons=true" />
 </a>
-<a href="https://github.com/Milenakamine/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milenakamine" />
-</a>
+
