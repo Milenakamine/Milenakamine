@@ -6,7 +6,7 @@ Me chamo Milena Akamine  👩🇧🇷
 
 Estou conhecendo o mundo da programação a fundo 💻
 
-Atualmente me encontro no curso Desenvolvimento de Sistemas  🚩
+Desenvolvedora de Sistemas  🚩
 
 From SP 📍
 
