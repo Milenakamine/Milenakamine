@@ -1,7 +1,5 @@
 # Hey 👋
 
-![Giphy](https://i.imgur.com/VPysNLT.gif)
-
 Me chamo Milena Akamine  👩🇧🇷
 
 Estou conhecendo o mundo da programação a fundo 💻
@@ -9,6 +7,7 @@ Estou conhecendo o mundo da programação a fundo 💻
 Desenvolvedora de Sistemas  🚩
 
 From SP 📍
+
 
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
